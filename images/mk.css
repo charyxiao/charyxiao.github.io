@@ -1,5 +1,6 @@
 body {
 	font-family: "SFMono-Regular", Menlo, Monaco, "Courier New", "Microsoft YaHei" !important;
+	font-size: 13px !important;
 	letter-spacing: 1px;
 }
 code, pre { font-family: "SFMono-Regular", Menlo, Monaco, "Courier New", "Microsoft YaHei" !important;}
