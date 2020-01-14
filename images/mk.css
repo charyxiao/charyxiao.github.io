@@ -1,8 +1,8 @@
 body, p{
-	font-family: "SFMono-Regular", Menlo, Monaco, "Courier New", "Microsoft YaHei" !important;
+	font-family: "Source Code Pro", "SFMono-Regular", Menlo, Monaco, "Courier New", "Microsoft YaHei" !important;
 	font-size: 13px;
 	letter-spacing: 1px;
 }
 code, pre { 
-	font-family: "SFMono-Regular", Menlo, Monaco, "Courier New", "Microsoft YaHei" !important;
+	font-family: "Source Code Pro", "SFMono-Regular", Menlo, Monaco, "Courier New", "Microsoft YaHei" !important;
 }
